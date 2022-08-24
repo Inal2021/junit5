@@ -2,7 +2,7 @@ package junit;
 
 import java.util.stream.DoubleStream;
 
-public class Calculator {
+public class C01_Calculator {
 
     static double add(double... numbers){
         return DoubleStream.of(numbers).sum();
