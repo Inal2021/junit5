@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CalculatorTest {
+class C01_CalculatorTest {
 
     @Test
     @DisplayName("Test Ok") // If user wants to creat a new Test name!
