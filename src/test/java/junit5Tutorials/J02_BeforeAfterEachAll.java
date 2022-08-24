@@ -26,12 +26,12 @@ public class J02_BeforeAfterEachAll {
 
 @BeforeAll
 static void awsCloudOpening() {
-    System.out.println("AWS started");
+    System.out.println("AWS started");    // veritabani baglantisi kuruldu
 }
 
 @AfterAll
 static void  awsCloudClosing() {
-    System.out.println("AWS finished");
+    System.out.println("AWS finished");   // veritabani baglantisi kaldirildi
 }
 
 
